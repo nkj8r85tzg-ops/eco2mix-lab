@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Données (trop lourdes pour Git, recréées par le code)
+data/
+
+# Fichiers système du Mac
+.DS_Store
